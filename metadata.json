@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse - DevOps & AI Project Workspace",
+  "description": "Smart project management platform tailored for Junior DevOps and AI Developers featuring IaC tracking, CI/CD pipelines, MLOps experiment runs, GPU cluster compute management, and intelligent automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
